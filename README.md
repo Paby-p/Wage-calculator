@@ -1,2 +1,2 @@
 # Wage-calculator
-Calculates teax and net salary after deductions
+Calculates tax and net salary after deductions
